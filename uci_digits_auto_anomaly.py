@@ -3,7 +3,7 @@
 # autoencoder reconstruction error anomaly detection
 # uses an encoder-decoder architecture
 # PyTorch 1.8.0-CPU Anaconda3-2020.02  Python 3.7.6
-# Windows 10 
+
 
 import numpy as np
 import matplotlib.pyplot as plt
